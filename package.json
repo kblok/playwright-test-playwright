@@ -1,0 +1,21 @@
+{
+  "name": "playwright-test-playwright",
+  "version": "1.0.0",
+  "description": "Just a repo to share examples",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kblok/playwright-test-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kblok/playwright-test-playwright/issues"
+  },
+  "homepage": "https://github.com/kblok/playwright-test-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "1.30.0"
+  }
+}
